@@ -1,0 +1,4 @@
+# Ignore EMACS files
+*.elc
+.emacs
+.el
